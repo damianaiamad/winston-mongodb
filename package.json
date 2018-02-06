@@ -1,9 +1,9 @@
 {
-  "name": "winston-mongodb",
+  "name": "winston-mongodemon",
   "license": "MIT",
   "version": "3.0.2",
-  "description": "A MongoDB transport for winston",
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "description": "A MongoDB 3.6 transport for winston",
+  "author": "damianaimad",
   "contributors": [
     {
       "name": "Yurij Mikhalevich",
