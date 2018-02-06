@@ -1,7 +1,7 @@
 # MongoDemon
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/indexzero/winston-mongodb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-A MongoDB 3.6 transport for [winston][0].
+An experimental MongoDB 3.6 transport for [winston][0].
 
 Current version supports only mongodb driver version 3.x.
 
