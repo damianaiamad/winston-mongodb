@@ -1,7 +1,7 @@
 {
   "name": "winston-mongodemon",
   "license": "MIT",
-  "version": "3.0.2",
+  "version": "0.1.0",
   "description": "A MongoDB 3.6 transport for winston",
   "author": "damianaimad",
   "contributors": [
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/damianaiamad/winston-mongodb3.git"
+    "url": "https://github.com/damianaiamad/winston-mongodemon.git"
   },
   "keywords": [
     "logging",
