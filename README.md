@@ -3,8 +3,7 @@
 
 A MongoDB 3.6 transport for [winston][0].
 
-Current version supports only mongodb driver version 2.x. If you want to use
-winston-mongodb with mongodb version 1.4.x use winston-mongodb <1.x.
+Current version supports only mongodb driver version 3.x.
 
 ## Motivation
 `tldr;?`: To break the [winston][0] codebase into small modules that work
