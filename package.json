@@ -3,7 +3,7 @@
   "license": "MIT",
   "version": "0.1.0",
   "description": "A MongoDB 3.6 transport for winston",
-  "author": "damianaimad",
+  "author": "damianaimad <terianpl@gmail.com>",
   "contributors": [
     {
       "name": "Yurij Mikhalevich",
